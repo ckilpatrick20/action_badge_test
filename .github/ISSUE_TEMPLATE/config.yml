@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Support
-    url: https://github.community/
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
+  - name: iPipeline GitHub Admins
+    email: gitadmins@ipipeline.com
+    about: Please email iPipeline GitHub Admins for repo support.
+  - name: iPipeline Help
+    url: https://ipipeline.cherwellondemand.com/CherwellPortal/iPipelineITSupportPortal
     about: Please report security vulnerabilities here.
